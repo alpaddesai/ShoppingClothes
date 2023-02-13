@@ -4,4 +4,8 @@
 
 ![image](ShoppingClothesChild.JPG)
 
+![image](EthicsandExcellence.JPG)
+
+![image](USCopyrightCertificate.jpg)
+
 Additional details referece https://github.com/alpaddesai/LifeStyle
