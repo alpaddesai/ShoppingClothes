@@ -6,6 +6,6 @@
 
 ![image](EthicsandExcellence.JPG)
 
-![image](USCopyrightCertificate.jpg)
+![image](USCopyrightCertificate.JPG)
 
 Additional details referece https://github.com/alpaddesai/LifeStyle
